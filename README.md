@@ -3,4 +3,4 @@ It is a simple application demonstrating the Spring Data Rest concept in Spring 
 
 Our Dao needs to extends the JpaRepository for it to work.
 
-You can check the working of this using POSTMAN for any other tool.
+You can check the working of this using POSTMAN or any other tool.
