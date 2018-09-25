@@ -1,4 +1,4 @@
-# Spring-Data-Rest + mysql
+# Spring-Data-Rest + mysql + Hibernate
 It is a simple application demonstrating the Spring Data Rest concept in Spring Tool Suite.
 
 Our Dao needs to extends the JpaRepository for it to work.
